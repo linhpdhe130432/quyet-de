@@ -1,0 +1,25 @@
+.button {
+    display: flex;
+    justify-content: space-around;
+}
+.like {
+    text-align: center;
+    cursor: pointer;
+    text-align: center;
+}
+.dislike {
+    text-align: center;
+    cursor: pointer;
+    text-align: center;
+}
+.func {
+    display: flex;
+    justify-content: center;
+}
+.info {
+    margin-right: 5px;
+    cursor: pointer;
+}
+.other {
+    cursor: pointer;
+}
